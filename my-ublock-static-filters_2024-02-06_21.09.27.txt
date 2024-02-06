@@ -1,0 +1,242 @@
+! 2023-09-06 https://www.163.com
+www.163.com##.post_side
+
+||163.com/api/v1/
+||163.com/special/*/common_article_tiead.js
+||163.com/v2/article/list.do
+||163.com/v2/article/next.do
+||ipservice.ws.126.net
+||163.com/*/getUserByCookie
+||bytegoofy.com/*/push.js
+www.163.com##.js-tab-mod.post_recommends
+
+# ifeng
+||statistics.appstore.ifeng.com
+||dl.app.ifengcdn.com
+||nine.ifeng.com
+#||ifengimg.com^*.js
+ifeng.com##.index_link_wek7z
+survey.news.ifeng.com
+||ifengimg.com/feprod/*.js
+||ifengimg.com/fe/content/articleH5/*.js
+#@@||ifengimg.com/fe/content/articleH5/dll.b661cdce1c.js$script
+#@@||ifengimg.com/fe/content/articleH5/mobile_shareNews.83850b929b.js$script
+||shankapi.ifeng.com/*/content/*
+||shankapi.ifeng.com/c/api/content/*
+ishare.ifeng.com##.index_callupBtn_7BQho
+||api.iclient.ifeng.com/wakeupiOS/*
+||shankapi.ifeng.com/c/api/content/shareNews/getHotRankList/*
+
+# jd
+#||api.m.jd.com/api?$important
+||api.m.jd.com/mcoss/datash/get*$script
+#||h5speed.m.jd.com
+||wq.jd.com$script
+#||wq.360buyimg.com$script
+||uranus.jd.com
+||apk.360buyimg.com
+market://details?id=com.jingdong.app.mall
+||wqs.jd.com/downloadApp/download.html?*$document
+#||wqs.jd.com/downloadApp/download.html?channel=jd-msxotherbn
+#||wqimg.jd.com
+||h5static.m.jd.com/act/jd-jssdk/latest/jd-jssdk.min.js
+
+# thepaper
+#||m.thepaper.cn$script
+#||thepaper.cn/*/_app-*.js
+#||t4m.cn/applink.js
+||thepaper.cn/*/bottomBanner
+#||thepaper.cn/download?*$document
+||thepaper.cn/*.apk$document
+||thepaper.cn/*.apk
+$||t4m.cn
+www.thepaper.cn##.index_wrapper__jYtRh
+www.thepaper.cn##.index_commonsider__3D368
+www.thepaper.cn##.index_commentWrap__N_wpL
+www.thepaper.cn##.ant-affix
+www.thepaper.cn##.index_light__hRATr
+
+# sina
+||sinaimg.cn$script
+##@@||sinaimg.cn/*/*.min
+||gk.sina.cn
+||mjs.sinaimg.cn/*/articlev*/*/js/index.min
+
+#douban
+||at3.doubanio.com
+||doubanio.com/*/douban-ad-helper.js
+#||doubanio.com/*/*.js
+||douban.com/doubanapp/app?*$document
+||andariel.douban.com
+||doubanio.com/*?company_token=*
+||douban.com/to_app?*$document
+
+#sina
+||gk.sina.cn/v1/$document
+||so.sina.cn
+||downapp.sina.cn
+||pluto.sina.cn/gk/
+||pluto.sina.cn
+#||feeds.sina.cn
+||cmnt.sina.cn/aj/v2/
+||interface.sina.cn/wap_api/search_hotwords_data.d.json^$document
+#||mfejs.sina.cn/*Json.js
+
+#taobao
+||g.alicdn.com/*jstracker*.js
+||h5api.m.taobao.com/h5/mtop.taobao.afc.ddl.report/$document
+||market.m.taobao.com/app/starlink/wakeup-transit/$document
+
+||hdslb.com/mobile/latest/$document
+
+! 2023-08-26 https://m.bilibili.com
+m.bilibili.com##.home-float-openapp.launch-app-btn
+m.bilibili.com##.m-nav-openapp.launch-app-btn
+m.bilibili.com##.m-float-openapp.launch-app-btn
+m.bilibili.com##.m-video2-awaken-btn-v2
+m.bilibili.com##.visible-open-app-btn > .m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn
+
+#||hdslb.com/bfs/cm/cm-sdk/static/js/$script
+||hdslb.com/bfs/static/player/main/html5/widgets/$script
+#||hdslb.com/bfs/static/jinkela/long/js/sentry/$script
+#||hdslb.com/bfs/seed/jinkela/short/$script
+#||hdslb.com/bfs/static/jinkela/mstation-video-h5/2*$script
+#||hdslb.com/bfs/static/jinkela/mstation-video-h5/0*$script
+#||hdslb.com/bfs/static/jinkela/mstation-video-h5/mstation-video*$script
+
+! 2023-08-26 https://space.bilibili.com
+space.bilibili.com##.login-tip
+
+! 2023-08-26 https://www.bilibili.com
+www.bilibili.com##.bpx-player-toast-item
+www.bilibili.com##.download-client-trigger.download-entry
+www.bilibili.com##.v-popover
+www.bilibili.com##.van-popover
+www.bilibili.com##.user-card-m-exp
+
+||zhihu.com/oia/feed
+
+! 2023-08-27 https://www.zhihu.com
+www.zhihu.com##.css-121zbv8.Button--blue.Button--primary.Button
+www.zhihu.com##.Button--blue.css-183aq3r.Button
+||zhihu.com/heifetz/chunks/.*js$script
+||acstatic-dun.126.net$script
+||static.zhihu.com/heifetz/chunks/GoodsRecommendGoodsCardList.*.js$important
+#www.zhihu.com##.Modal-backdrop
+#www.zhihu.com##.Modal-enter-done.undefined.Modal-wrapper
+||zhihu.com/oia/feed$document
+#||zhihu.com/heifetz/chunks/shared-*.js$important
+
+# jiemian
+
+#||res.jiemian.com$script
+m.jiemian.com##.app-open
+m.jiemian.com##.go-index
+m.jiemian.com##.download-app
+m.jiemian.com##.msg
+m.jiemian.com##.recommend-column
+m.jiemian.com##.d-app
+m.jiemian.com##.social-tools
+||cdnpapi.jiemian.com
+||ta2.jiemian.com
+||bonree.jiemian.com
+||jiemian.com/assets/wap/common/js/jm-stat-*.js
+
+! 2023-09-12 https://m.thepaper.cn
+m.thepaper.cn##.header_header_download__VUqb3
+
+! 2023-09-12 https://m.163.com
+m.163.com##.home-subNav-fixed.home-subNav-wrap
+m.163.com##.s-left > .s-info > .s-openApp
+m.163.com##.widget-floatMenu
+m.163.com##.cards-newsCard.cards-bigImg > article > .s-info > .s-openApp
+m.163.com##.cards-newsCard.cards-threeImg > article > .s-info > .s-openApp
+m.163.com##.hot-words
+
+! 2023-09-12 https://sina.cn
+sina.cn###j_card_yaowen > a.j_callST.m_f_a_r.template_v6_picTxt.template_v6 > .m_f_con > .cm_f_ic_l.cm_f_ic
+sina.cn##.fl_suspension_box
+
+! 2023-09-12 https://news.sina.cn
+sina.cn##.fl_words_box
+sina.cn##.ft_nav.hd_nav
+sina.cn##.j_callST.ldy_art_bottom_button_box
+sina.cn##.sina_sliders_pos.sw_c0
+
+# sohu
+||statres.quickapp.cn$script
+||caaceed4aeaf2.cdn.sohucs.com$script
+||v2.sohu.com/public-api/articles/pv
+#||statics.itc.cn
+#||statics.itc.cn/*/lib-*.js
+||sohucs.com
+
+! 2023-09-12 https://m.sohu.com
+m.sohu.com###CallAppContainer
+m.sohu.com##.art-rec-news
+m.sohu.com##.comment-reply_new.comment-reply
+m.sohu.com##.fadeIn.fixed.fixed-catalog
+m.sohu.com##.i-ic_top.icon
+m.sohu.com##.fadeIn.index.fixed.fixed-back-top
+m.sohu.com##.header-query
+m.sohu.com##.cbd-top-bar
+
+! 2023-09-12 https://twitter.com
+twitter.com##.r-1bro5k0.css-1dbjc4n > .css-1dbjc4n
+twitter.com##.r-1bro5k0.css-1dbjc4n
+
+! 2023-09-13 https://m.jd.com
+m.jd.com##.j_slide_list.new-slide
+m.jd.com###m_common_tip
+m.jd.com##.pannel-seat
+m.jd.com###imk2FixedBottom
+
+! 2023-09-13 https://item.m.jd.com
+item.m.jd.com##.jd_live
+item.m.jd.com###imk2FixedSideText
+item.m.jd.com##.J_ping.mhistory-layer__btn
+
+! 2023-09-13 https://m.jd.com
+m.jd.com##.j_slide_nav.focus-btn
+
+! 2023-09-13 https://main.m.taobao.com
+main.m.taobao.com###tcodeSideBar
+main.m.taobao.com##button
+
+! 2023-09-17 https://36kr.com
+36kr.com##.kr-article-follow > .kr-follow-fixed.kr-follow
+36kr.com##.app-track-card
+36kr.com##.wise-entry-box-box
+
+! 2023-09-17 https://m.36kr.com
+m.36kr.com##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.swiper-container
+m.36kr.com##.interact-area
+m.36kr.com##.float-app-button-wrp
+m.36kr.com##.may-like-art-wrp
+m.36kr.com##.article-comment
+
+! 2023-09-17 https://m.huxiu.com
+m.huxiu.com##.js-guide-page.guide-page
+m.huxiu.com##.js-top-fixed.bgW.guide-wrap
+m.huxiu.com##.js-click-log-href-sign.js-click-log-ele.js-content-open-app.js-top-guide.js-bottom-open-app-btn.bottom-open-app-btn
+m.huxiu.com###related-article-wrap
+
+! 2023-09-17 https://m.tmtpost.com
+m.tmtpost.com##body > .app_html_btn
+m.tmtpost.com##.get_apps_btn
+m.tmtpost.com##.open_app
+m.tmtpost.com##.m_bottom
+m.tmtpost.com##.app_html_btn
+
+! 2023-09-17 https://view.inews.qq.com
+view.inews.qq.com##.slider-top-bar_sliderWrapper__1Nize
+view.inews.qq.com##.normal_buttonWrap__S7gLr
+view.inews.qq.com##.new-recommend_wrapper__oj9SS
+view.inews.qq.com##.comment-with-interaction-bottom_comment__Ldf0m
+view.inews.qq.com##.interaction-bottom_interaction__hYV3B
+||qq.com/*/TencentNews*.apk$document
+
+! 2023-09-17 https://www.xiaoyuzhoufm.com
+www.xiaoyuzhoufm.com##.normal-bg.button.jsx-1102109560.jsx-112559991
+www.xiaoyuzhoufm.com##.wrap.jsx-d366515307d49643
+
