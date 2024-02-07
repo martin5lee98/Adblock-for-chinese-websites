@@ -240,3 +240,8 @@ view.inews.qq.com##.interaction-bottom_interaction__hYV3B
 www.xiaoyuzhoufm.com##.normal-bg.button.jsx-1102109560.jsx-112559991
 www.xiaoyuzhoufm.com##.wrap.jsx-d366515307d49643
 
+! 2024-02-06 https://www.zaobao.com
+www.zaobao.com###mouse-menu
+www.zaobao.com##.next-article
+www.zaobao.com##.left-aside-wrapper
+www.zaobao.com##.back-top-bar
