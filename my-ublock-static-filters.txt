@@ -57,7 +57,7 @@ www.thepaper.cn##.ant-affix
 www.thepaper.cn##.index_light__hRATr
 
 # sina
-||sinaimg.cn$script
+#||sinaimg.cn$script
 ##@@||sinaimg.cn/*/*.min
 ||gk.sina.cn
 ||mjs.sinaimg.cn/*/articlev*/*/js/index.min
