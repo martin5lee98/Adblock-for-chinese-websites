@@ -55,11 +55,11 @@ market://details?id=com.jingdong.app.mall
 ||thepaper.cn/*.apk$document
 ||thepaper.cn/*.apk
 $||t4m.cn
-www.thepaper.cn##.index_wrapper__jYtRh
-www.thepaper.cn##.index_commonsider__3D368
-www.thepaper.cn##.index_commentWrap__N_wpL
+www.thepaper.cn##[class^="index_wrapper__"]
+www.thepaper.cn##[class^="index_commonsider__"]
+www.thepaper.cn##[class^="index_commentWrap__"]
 www.thepaper.cn##.ant-affix
-www.thepaper.cn##.index_light__hRATr
+www.thepaper.cn##[class^="index_light__"]
 
 # sina
 #||sinaimg.cn$script
