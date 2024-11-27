@@ -26,11 +26,11 @@ survey.news.ifeng.com
 ishare.ifeng.com##.index_callupBtn_7BQho
 ||api.iclient.ifeng.com/wakeupiOS/*
 ||shankapi.ifeng.com/c/api/content/shareNews/getHotRankList/*
-ifeng.com##.index_rightContent_Caqe0
-ifeng.com##.index_comment_box_OaOvc
-ifeng.com##div.index_box_HGdrQ:nth-of-type(7)
-ifeng.com##div.index_box_HGdrQ:nth-of-type(10)
-ifeng.com##.index_bottom_affix_dQzSi
+ifeng.com##[class^="index_rightContent_"]
+ifeng.com##[class^="index_comment_box_"]
+ifeng.com##div[class^="index_box_"]:nth-of-type(7)
+ifeng.com##div[class^="index_box_"]:nth-of-type(10)
+ifeng.com##[class^="index_bottom_affix_"]
 
 # jd
 #||api.m.jd.com/api?$important
